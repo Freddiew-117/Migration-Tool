@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="16" cy="16" r="16" fill="#F6851B"/>
+  <path d="M25.12 6.45L18.67 11.18L20.02 8.11L25.12 6.45Z" fill="#E2761B" stroke="#E2761B" stroke-width="0.1"/>
+  <path d="M6.88 6.45L13.26 11.23L11.98 8.11L6.88 6.45Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M21.56 20.29L19.84 22.9L24.78 24.19L25.94 20.37L21.56 20.29Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M6.07 20.37L7.22 24.19L12.16 22.9L10.44 20.29L6.07 20.37Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M11.89 15.36L10.59 17.14L15.48 17.32L15.31 12.03L11.89 15.36Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M20.11 15.36L16.64 11.98L16.52 17.32L21.41 17.14L20.11 15.36Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M12.16 22.9L14.51 21.78L12.49 20.4L12.16 22.9Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M17.49 21.78L19.84 22.9L19.51 20.4L17.49 21.78Z" fill="#E4761B" stroke="#E4761B" stroke-width="0.1"/>
+  <path d="M19.84 22.9L17.49 21.78L17.7 23.46L17.67 24.12L19.84 22.9Z" fill="#D7C1B3" stroke="#D7C1B3" stroke-width="0.1"/>
+  <path d="M12.16 22.9L14.33 24.12L14.3 23.46L14.51 21.78L12.16 22.9Z" fill="#D7C1B3" stroke="#D7C1B3" stroke-width="0.1"/>
+  <path d="M14.37 19.05L12.42 18.43L13.77 17.83L14.37 19.05Z" fill="#233447" stroke="#233447" stroke-width="0.1"/>
+  <path d="M17.63 19.05L18.23 17.83L19.58 18.43L17.63 19.05Z" fill="#233447" stroke="#233447" stroke-width="0.1"/>
+  <path d="M12.16 22.9L12.52 20.29L10.44 20.37L12.16 22.9Z" fill="#CD6116" stroke="#CD6116" stroke-width="0.1"/>
+  <path d="M19.48 20.29L19.84 22.9L21.56 20.37L19.48 20.29Z" fill="#CD6116" stroke="#CD6116" stroke-width="0.1"/>
+  <path d="M21.41 17.14L16.52 17.32L17.63 19.05L18.23 17.83L19.58 18.43L21.41 17.14Z" fill="#CD6116" stroke="#CD6116" stroke-width="0.1"/>
+  <path d="M12.42 18.43L13.77 17.83L14.37 19.05L15.48 17.32L10.59 17.14L12.42 18.43Z" fill="#CD6116" stroke="#CD6116" stroke-width="0.1"/>
+</svg>
